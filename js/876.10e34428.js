@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb3"]=self["webpackChunkweb3"]||[]).push([[876],{2876:function(n,e,r){r.r(e),r.d(e,{default:function(){return i}});var u=r(3396);function t(n,e){return(0,u.wg)(),(0,u.iD)("div",null,"product")}var c=r(89);const a={},f=(0,c.Z)(a,[["render",t]]);var i=f}}]);
+//# sourceMappingURL=876.10e34428.js.map
